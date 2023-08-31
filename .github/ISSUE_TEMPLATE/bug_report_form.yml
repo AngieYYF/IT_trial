@@ -34,7 +34,7 @@ body:
       label: Reproduce the bug
       description: How may the bug be reproduced?
       placeholder: Steps to reproduce the behavior.
-    validation: 
+    validations: 
       required: false
   
   - type: textarea
