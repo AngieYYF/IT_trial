@@ -2,9 +2,7 @@ name: Feature Request
 description: Suggest an idea for Planimation
 title: "[Feature]: "
 labels: ["enhancement", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
+projects: ["Planimation Project Board"]
 body:
   - type: markdown
     attributes:
