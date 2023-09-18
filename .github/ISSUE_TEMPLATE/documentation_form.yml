@@ -32,7 +32,7 @@ body:
     attributes: 
       label: Improvement
       description: How would you like the documentation to be improved?
-      placeholder: ex. The explaination should be [...]
+      placeholder: ex. The correct/improved documentation may be [...]
     validations: 
       required: true
 
