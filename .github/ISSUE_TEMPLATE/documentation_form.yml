@@ -1,10 +1,9 @@
 name: Documentation
 description: Suggest an improvment for documentation on Planimation
 title: "[Documentation]: "
-labels: ["documentation", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
+labels: ["documentation"]
+projects: ["Planimation Project Board"]
+
 body:
   - type: markdown
     attributes:
