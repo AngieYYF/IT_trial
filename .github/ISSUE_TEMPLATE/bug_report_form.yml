@@ -1,10 +1,9 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["Planimation Project Board", "octo-org/44"]
+labels: ["bug"]
+projects: ["Planimation Project Board"]
 assignees:
-  - octocat
 body:
   - type: markdown
     attributes:
